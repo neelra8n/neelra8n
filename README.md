@@ -3,7 +3,8 @@
 <!--
 **neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h3 align="left">I'm Neel Ratn, <br> A 20-year old technical enthusiast who does web development, using MERN stack. Passionate to learn newer technologies to build my carrier and add to the community.</h3>
+<h3 align="left">I'm Neel Ratn</h3>
+<p align="left"><br> A 20-year old technical enthusiast who does web development, using MERN stack. Passionate to learn newer technologies to build my carrier and add to the community.</p>
 
 <h3 align="left">Language Known</h3>
 <p align="left">Javascript, C</p>
