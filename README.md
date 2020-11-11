@@ -1,21 +1,16 @@
 <!-- ### Hi there 👋
 -->
 <!--
-**neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align="center">I'm Neel Ratn, a 20-year old technical enthusiast who does web development, using MERN stack. Passionate to learn newer technologies to build my carrier and add to the community.</h3>
+
+<h3 align="left">Language Known</h3>
+<p align="left">Javascript, C</p>
+
+<h3 align="left">Technologies</h3>
+<p align="left">NodeJS, React,MongoDB, Express, Figma, Git, VannilaJs, </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/neelra8n/Javascript_Projects](https://github.com/neelra8n/Javascript_Projects)
 
