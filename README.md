@@ -10,7 +10,7 @@
 <p align="left">Javascript, C</p>
 
 <h3 align="left">Top Language used</h3>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=neelra8n&langs_count=8)(https://github.com/neelra8n/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Technologies</h3>
