@@ -4,10 +4,10 @@
 **neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align="left">I'm Neel Ratn</h3>
-<p align="left">I'm aspiring Web Developer currently learning ReactJs. Passionate to learn newer technologies to build my carrier and add to the community.</p>
+<p align="left">I'm aspiring Web Developer currently learning Typescript. Passionate to learn newer technologies to build my carrier and add to the community.</p>
 
 <h3 align="left">Language Known</h3>
-<p align="left">Javascript, C</p>
+<p align="left">Javascript, Java</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelra8n)](https://github.com/neelra8n/github-readme-stats)
 
@@ -16,7 +16,7 @@
 <p align="left">NodeJS, React,MongoDB, Express, Figma, Git, VannilaJs </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/neelra8n/Javascript_Projects](https://github.com/neelra8n/Javascript_Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/neelra8n/](https://github.com/neelra8n/)
 
 - 📫 How to reach me **neelratn.official@gmail.com**
 
