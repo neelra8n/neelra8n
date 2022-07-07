@@ -7,16 +7,11 @@
 <p align="left">I'm aspiring Web Developer currently learning Typescript. Passionate to learn newer technologies to build my carrier and add to the community.</p>
 
 <h3 align="left">Language Known</h3>
-<p align="left">Javascript, Java</p>
+<p align="left">Javascript, Java, Typescript</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelra8n)](https://github.com/neelra8n/github-readme-stats)
 
-
-<h3 align="left">Technologies</h3>
-<p align="left">NodeJS, React,MongoDB, Express, Figma, Git, VannilaJs </p>
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/neelra8n/](https://github.com/neelra8n/)
+![](https://leetcard.jacoblin.cool/neelratn)
 
 - 📫 How to reach me **neelratn.official@gmail.com**
 
