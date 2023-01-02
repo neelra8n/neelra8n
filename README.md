@@ -28,14 +28,13 @@ Keenly interested in exploring new tech in full stack development and can work i
 
 ![](https://leetcard.jacoblin.cool/neelratn)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/neel-ratn-353b60169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neelratn" height="30" width="30" /></a>
-<a href="https://fb.com/neelratn100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neelratn" height="30" width="30" /></a>
-<a href="https://instagram.com/indianghumakkad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neelratn" height="30" width="30" /></a>
-</p>
-
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=neelratn&theme=dark&filter=comp)
 
 - 📫 How to reach me **neelratn.official@gmail.com**
+<p align="center">
+<a href="https://www.linkedin.com/in/neel-ratn-353b60169/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neelratn" height="30" width="30" fill="white" /></a>
+<a href="https://fb.com/neelratn100" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neelratn" height="30" width="30" /></a>
+<a href="https://instagram.com/indianghumakkad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neelratn" height="30" width="30" /></a>
+</p>
 <h2>Thanks for stopping by 😄</h2>
 ----
