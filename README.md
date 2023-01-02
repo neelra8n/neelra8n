@@ -36,7 +36,7 @@ Keenly interested in exploring new tech in full stack development and can work i
 <a href="https://instagram.com/indianghumakkad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neelratn" height="30" width="30" /></a>
 </p>
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=neelratn&theme=beach&filter=comp)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=neelratn&theme=dark&filter=comp)
 
 <h2>Thanks for stopping by 😄</h2>
 ----
