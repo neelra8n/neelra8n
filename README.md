@@ -4,7 +4,22 @@
 **neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align="left">I'm Neel Ratn</h3>
-<p align="left">I'm aspiring Web Developer currently learning Typescript. Passionate to learn newer technologies to build my carrier and add to the community.</p>
+<p align="left">
+I'm working as a Software Engineer at Bamboorose India and have a good interest in building products.
+
+Experienced in technology mentioned below.
+1. Front-end tech with JavaScript, jQuery, ReactJs, Bootstrap & TypeScript, SASS.
+2. OAuth2
+3. SSO using OpenID connect
+4. WebSocket, REST
+4. Monolithic web apps and microservices using Spring Framework, J2EE, Spring Boot, Nodejs, Express technologies. 
+5. Database with mySql and mongoDB
+7. Web extension development and testing for multiple browser
+8. and more to be added...
+
+Well versed with Java and Javascript related technologies and can learn and develop simultaneously.
+Keenly interested in exploring new tech in full stack development and can work individually as well as in team.
+</p>
 
 <h3 align="left">Language Known</h3>
 <p align="left">Javascript, Java, Typescript</p>
