@@ -21,4 +21,5 @@
 <a href="https://instagram.com/indianghumakkad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neelratn" height="30" width="30" /></a>
 </p>
 
+<p>https://badges.peiyuan.ch/leetcode/{neelratn}/name</p>
 ----
