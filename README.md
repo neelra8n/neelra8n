@@ -8,7 +8,7 @@
 I'm working as a Software Engineer at Bamboorose India and have a good interest in building products.
 
 
-Full-stack development: Developed both frontend and backend and implemented technical solutions for BR SaaS product with 80% reusable components. 
+Full-stack development: Developed both frontend and backend and implemented technical solutions for BR SaaS product with 80% reusable components. <br />
 Single Sign-On (SSO) and OAuth2: Implemented a common login functionality with SSO on OAuth2 for a multi-browser Chrome extension.
 Bug fixing & Testing: 100% success rate in solving bugs.Optimised existing features, fixed several bugs & delivered within committed timeframes. Have attention to detail.
 Technology migration: Collaborating with a team of backend developers to update and implement old screens based on JSP and jQuery to new screens on React JS.
