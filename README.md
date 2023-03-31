@@ -5,32 +5,23 @@
 
 <h3 align="left">I'm Neel Ratn</h3>
 <p align="left">
+  
 I'm working as a Software Engineer at Bamboorose India and have a good interest in building products.
+With 1+ year of experience on paper but have dreams to establish as a renowned developer in Industry, Have a strong understanding of the latest technologies and trends.
 
-
-Full-stack development: Developed both frontend and backend and implemented technical solutions for BR SaaS product with 80% reusable components. <br />
-Single Sign-On (SSO) and OAuth2: Implemented a common login functionality with SSO on OAuth2 for a multi-browser Chrome extension.
-Bug fixing & Testing: 100% success rate in solving bugs.Optimised existing features, fixed several bugs & delivered within committed timeframes. Have attention to detail.
-Technology migration: Collaborating with a team of backend developers to update and implement old screens based on JSP and jQuery to new screens on React JS.
-API development: Updated existing and created new APIs in Java on a J2EE platform for extracting SOLR documents and facets in JAVA.
-Micro-frontend development: Integrated React and non-React screens on the same platform, Developed, implemented and tested navigation mechanism between two. 
-Documentation: Created, documented code and processes Using Confluence and JS docs standards.
-Developed and delivered software using React Js and Java.
-Participated in the full development lifecycle, including design, coding, automated testing, and production releases of frontend services.
-
-Languages: Java, Javascript, 
-Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Weback
-Backend: Node.js, SpringBoot
-Database:  MongoDB, Sql, Postgres, Firebase
-CI/CD: Github actions
-Source Control: Git, Bitbucket
-React.js. React.js, ReactJs, JS, TS
-Unit Testing: Junit
-Hosting/Cloud: GCP, AWS, Hostinger
-Containerisation: Docker
-Authentication:  Basic, JWT, OAuth2, SSO 
-Other: REST services, core Java, Object-Oriented Javascript (OOPS)
-DevOps, Agile
+Languages: Java, Javascript, <br />
+Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Webpack <br />
+Backend: Node.js, SpringBoot <br />
+Database:  MongoDB, Sql, Postgres, Firebase <br />
+CI/CD: Github actions <br />
+Source Control: Git, Bitbucket <br />
+React.js. React.js, ReactJs, JS, TS <br />
+Unit Testing: Junit <br />
+Hosting/Cloud: GCP, AWS, Hostinger <br />
+Containerisation: Docker <br />
+Authentication:  Basic, JWT, OAuth2, SSO <br />
+Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
+DevOps, Agile <br />
 
 
 Well versed with Java and Javascript related technologies and can learn and develop simultaneously.
