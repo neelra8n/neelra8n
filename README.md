@@ -7,15 +7,31 @@
 <p align="left">
 I'm working as a Software Engineer at Bamboorose India and have a good interest in building products.
 
-Experienced in technology mentioned below.
-1. Front-end tech with JavaScript, jQuery, ReactJs, Bootstrap & TypeScript, SASS.
-2. OAuth2
-3. SSO using OpenID connect
-4. WebSocket, REST
-4. Monolithic web apps and microservices using Spring Framework, J2EE, Spring Boot, Nodejs, Express technologies. 
-5. Database with mySql and mongoDB
-7. Web extension development and testing for multiple browser
-8. and more to be added...
+
+Full-stack development: Developed both frontend and backend and implemented technical solutions for BR SaaS product with 80% reusable components. 
+Single Sign-On (SSO) and OAuth2: Implemented a common login functionality with SSO on OAuth2 for a multi-browser Chrome extension.
+Bug fixing & Testing: 100% success rate in solving bugs.Optimised existing features, fixed several bugs & delivered within committed timeframes. Have attention to detail.
+Technology migration: Collaborating with a team of backend developers to update and implement old screens based on JSP and jQuery to new screens on React JS.
+API development: Updated existing and created new APIs in Java on a J2EE platform for extracting SOLR documents and facets in JAVA.
+Micro-frontend development: Integrated React and non-React screens on the same platform, Developed, implemented and tested navigation mechanism between two. 
+Documentation: Created, documented code and processes Using Confluence and JS docs standards.
+Developed and delivered software using React Js and Java.
+Participated in the full development lifecycle, including design, coding, automated testing, and production releases of frontend services.
+
+Languages: Java, Javascript, 
+Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Weback
+Backend: Node.js, SpringBoot
+Database:  MongoDB, Sql, Postgres, Firebase
+CI/CD: Github actions
+Source Control: Git, Bitbucket
+React.js. React.js, ReactJs, JS, TS
+Unit Testing: Junit
+Hosting/Cloud: GCP, AWS, Hostinger
+Containerisation: Docker
+Authentication:  Basic, JWT, OAuth2, SSO 
+Other: REST services, core Java, Object-Oriented Javascript (OOPS)
+DevOps, Agile
+
 
 Well versed with Java and Javascript related technologies and can learn and develop simultaneously.
 Keenly interested in exploring new tech in full stack development and can work individually as well as in team.
