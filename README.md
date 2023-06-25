@@ -6,7 +6,7 @@
 <h3 align="left">I'm Neel Ratn</h3>
 <p align="left">
   
-I'm working as a Software Engineer at Bamboorose India and have a good interest in building products.
+I'm working as a Software Engineer and have a good interest in building products.
 With 1+ year of experience on paper but have dreams to establish as a renowned developer in Industry, Have a strong understanding of the latest technologies and trends.
 
 Languages: Java, Javascript, <br />
