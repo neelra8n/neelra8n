@@ -6,26 +6,19 @@
 <h3 align="left">I'm Neel Ratn</h3>
 <p align="left">
   
-I'm working as a Software Engineer and have a good interest in building products.
-With 1+ year of experience on paper but have dreams to establish as a renowned developer in Industry, Have a strong understanding of the latest technologies and trends.
+I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions.
 
 Languages: Java, Javascript, <br />
 Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Webpack <br />
-Backend: Node.js, SpringBoot <br />
-Database:  MongoDB, Sql, Postgres, Firebase <br />
+Backend: Node.js<br />
+Database:  MongoDB, Postgres, Firebase <br />
 CI/CD: Github actions <br />
 Source Control: Git, Bitbucket <br />
 React.js. React.js, ReactJs, JS, TS <br />
 Unit Testing: Junit <br />
-Hosting/Cloud: GCP, AWS, Hostinger <br />
 Containerisation: Docker <br />
-Authentication:  Basic, JWT, OAuth2, SSO <br />
 Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
-DevOps, Agile <br />
 
-
-Well versed with Java and Javascript related technologies and can learn and develop simultaneously.
-Keenly interested in exploring new tech in full stack development and can work individually as well as in team.
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelra8n&show_icons=true&locale=en" alt="neelra8n" /></p>
