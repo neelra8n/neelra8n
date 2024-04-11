@@ -36,16 +36,17 @@
 <p>
   <h2>Skills</h2>
     <p align="left">
-      Languages: Java, Javascript, <br />
-      Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Webpack <br />
-      Backend: Node.js<br />
-      Database:  MongoDB, Postgres, Firebase <br />
-      CI/CD: Github actions <br />
-      Source Control: Git, Bitbucket <br />
-      React.js. React.js, ReactJs, JS, TS <br />
-      Unit Testing: Junit <br />
-      Containerisation: Docker <br />
-      Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
+      <ul>
+        <li>Languages: Java, Javascript, Typescript</li>
+        <li>Frontend: React.js, Redux.js ,HTML, CSS, Webpack</li>
+        <li>Backend: Node.js</li>
+        <li>Database:  MongoDB, Postgres, Firebase</li>
+        <li>CI/CD: Github actions</li>
+        <li>Source Control: Git, Bitbucket</li>
+        <li>Unit Testing: Junit</li>
+        <li>Containerisation: Docker</li>
+        <li>Other: REST, Agile, Object-Oriented Javascript (OOPS), Data Structures</li>
+      </ul>
     </p>
 </p>
 
