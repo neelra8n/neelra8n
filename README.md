@@ -2,27 +2,11 @@
 -->
 <!--
 **neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 <h3 align="left">I'm Neel Ratn</h3>
-<p align="left">
-  
-I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions.
-
-Languages: Java, Javascript, <br />
-Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Webpack <br />
-Backend: Node.js<br />
-Database:  MongoDB, Postgres, Firebase <br />
-CI/CD: Github actions <br />
-Source Control: Git, Bitbucket <br />
-React.js. React.js, ReactJs, JS, TS <br />
-Unit Testing: Junit <br />
-Containerisation: Docker <br />
-Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
-
-</p>
-
+<h2>I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions</h2>
 <p>
   <h2>Work Experience</h2>
+  <h3>Software Engineer | Bamboo Rose LLC  (April, 2022 - present) </h3>
   <ul>
     <li>
       Successfully implemented micro-frontend architecture with Web-Components and Shadow DOM, migrating React builds from CRA to Vite.Js within NX workspace, resulting in a 3x enhancement in
@@ -48,6 +32,21 @@ Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
       Helped Customer Support team in identifying type of bug reported and solved critical bugs and fixed issues in a strict time period.
     </li>
   </ul>
+</p>
+<p>
+  <h2>Skills</h2>
+    <p align="left">
+      Languages: Java, Javascript, <br />
+      Frontend: React.js, Redux.js ,HTML, CSS, Typescript, Webpack <br />
+      Backend: Node.js<br />
+      Database:  MongoDB, Postgres, Firebase <br />
+      CI/CD: Github actions <br />
+      Source Control: Git, Bitbucket <br />
+      React.js. React.js, ReactJs, JS, TS <br />
+      Unit Testing: Junit <br />
+      Containerisation: Docker <br />
+      Other: REST services, core Java, Object-Oriented Javascript (OOPS) <br />
+    </p>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelra8n&show_icons=true&locale=en" alt="neelra8n" /></p>
