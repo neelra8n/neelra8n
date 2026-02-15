@@ -3,7 +3,15 @@
 <!--
 **neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h3 align="left">I'm Neel Ratn</h3>
-<h2>I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions</h2>
+<h2>I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions, currently working on building DeFi and building Agents for productivity</h2>
+<h4>Currently Working with YieldFi building robust DeFi solutions</h4>
+<p>
+  <ul>
+    <li>
+      Building e2e DeFi apps, using web3 tools like, ether.js, wagmi, rainbowkit, wallet connect and more at YieldFi
+    </li>
+  </ul>
+</p>
 <p>
   <ul>
     <li>
