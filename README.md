@@ -5,19 +5,17 @@
 <h3 align="left">I'm Neel Ratn</h3>
 <h2>I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions</h2>
 <p>
-  <h2>Work Experience</h2>
-  <h3>Software Engineer | Bamboo Rose LLC  (April, 2022 - present) </h3>
   <ul>
     <li>
       Successfully implemented micro-frontend architecture with Web-Components and Shadow DOM, migrating React builds from CRA to Vite.Js within NX workspace, resulting in a 3x enhancement in
   developer experience and widespread adoption across the company for front-end projects
     </li>
     <li>
-      Led end-to-end development of Image Source Management, a 6-month project in just 4 months, collaborating with product teams to refine requirements. Conducted code reviews to ensure quality and streamlined
+      Led end-to-end development of Image Source Management, collaborating with product teams to refine requirements. Conducted code reviews to ensure quality and streamlined
   processes. Implemented SCRUM methodology, integrating Micro-Frontend (MFE) into a legacy Java app, and improved UX with Drag and Drop API
     </li>
     <li>
-      End-to-end development of the Rose Clipper Chrome extension, leveraging Manifest v3 for optimal performance and security. Successfully deployed the extension on Chrome Web Store and assumed sole responsibility for ongoing maintenance and improvements
+      End-to-end development of the Clipper Chrome extension, leveraging Manifest v3 for optimal performance and security. Successfully deployed the extension on Chrome Web Store and assumed sole responsibility for ongoing maintenance and improvements
     </li>
     <li>
       Implemented support for PKCE OAuth2 authentication, seamlessly integrating with the platform’s Common-Login (SSO) application to ensure secure and efficient user authentication
