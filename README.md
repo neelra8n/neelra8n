@@ -3,10 +3,10 @@
 <!--
 **neelra8n/neelra8n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h3 align="left">I'm Neel Ratn</h3>
-<h2>I am a Software Engineer specializing in architecting, and developing end-to-end frontend solutions, currently working on building DeFi and building Agents for productivity</h2>
+<h2>Specializing in architecting, and developing end-to-end frontend solutions, currently working on building DeFi and building Agents for productivity</h2>
 <h4>Currently Working with YieldFi building robust DeFi solutions</h4>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelra8n&show_icons=true&locale=en" alt="neelra8n" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelra8n&" alt="neelra8n" /></p>
 <br />
 
