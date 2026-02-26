@@ -5,8 +5,58 @@
 <h3 align="left">I'm Neel Ratn</h3>
 <h2>Specializing in architecting, and developing end-to-end frontend solutions, currently working on building DeFi and building Agents for productivity</h2>
 <h4>Currently Working with YieldFi building robust DeFi solutions</h4>
+<p>
+  <ul>
+    <li>
+      Building e2e DeFi apps, using web3 tools like, ether.js, wagmi, rainbowkit, wallet connect and more at YieldFi
+    </li>
+  </ul>
+</p>
+<p>
+  <ul>
+    <li>
+      Successfully implemented micro-frontend architecture with Web-Components and Shadow DOM, migrating React builds from CRA to Vite.Js within NX workspace, resulting in a 3x enhancement in
+  developer experience and widespread adoption across the company for front-end projects
+    </li>
+    <li>
+      Led end-to-end development of Image Source Management, collaborating with product teams to refine requirements. Conducted code reviews to ensure quality and streamlined
+  processes. Implemented SCRUM methodology, integrating Micro-Frontend (MFE) into a legacy Java app, and improved UX with Drag and Drop API
+    </li>
+    <li>
+      End-to-end development of the Clipper Chrome extension, leveraging Manifest v3 for optimal performance and security. Successfully deployed the extension on Chrome Web Store and assumed sole responsibility for ongoing maintenance and improvements
+    </li>
+    <li>
+      Implemented support for PKCE OAuth2 authentication, seamlessly integrating with the platform’s Common-Login (SSO) application to ensure secure and efficient user authentication
+    </li>
+    <li>
+      Developed reusable UI components, including Upload, Buttons, and Modals, within a central UI library Br-Components. Widely adopted by developers across teams for frontend development across company
+    </li>
+    <li>
+      Currently focused on crafting the DefaultLayout component to support layout and data functionalities.    
+    </li>
+    <li>
+      Helped Customer Support team in identifying type of bug reported and solved critical bugs and fixed issues in a strict time period.
+    </li>
+  </ul>
+</p>
+<p>
+  <h2>Skills</h2>
+    <p align="left">
+      <ul>
+        <li>Languages: Java, Javascript, Typescript</li>
+        <li>Frontend: React.js, Redux.js ,HTML, CSS, Webpack</li>
+        <li>Backend: Node.js</li>
+        <li>Database:  MongoDB, Postgres, Firebase</li>
+        <li>CI/CD: Github actions</li>
+        <li>Source Control: Git, Bitbucket</li>
+        <li>Unit Testing: Junit</li>
+        <li>Containerisation: Docker</li>
+        <li>Other: REST, Agile, Object-Oriented Javascript (OOPS), Data Structures</li>
+      </ul>
+    </p>
+</p>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neelra8n&show_icons=true&locale=en" alt="neelra8n" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neelra8n&" alt="neelra8n" /></p>
 <br />
 
